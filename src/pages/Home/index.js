@@ -14,7 +14,7 @@ export default function Home () {
                     </Navbar.Brand>
                     <Nav className="ml-auto">
                         <Nav.Link href="https://web.facebook.com/profile.php?id=100014762419049">Facebook</Nav.Link>
-                        <Nav.Link href="#features">GitHub</Nav.Link>
+                        <Nav.Link href="https://github.com/RhnAdi">GitHub</Nav.Link>
                     </Nav>
                 </Container>
             </Navbar>
